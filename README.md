@@ -1,6 +1,6 @@
 # Document_classifier
 Attempt to use advanced NLP techniques on multi class classification
-
+(in progress)
 plan 
 
 About the Dataset
